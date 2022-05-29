@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dopedeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
