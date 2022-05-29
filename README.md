@@ -4,7 +4,7 @@
   I'm <b>Windows application developer</b> since 2012.<br/>
   I develop medical device software. Recently, I am interested in and studying deep learning.<br/>
   <br/>
-  This github is for backing up my projects.<br/>
+  This github is for backing up my private projects.<br/>
 </p>
 
 #### Skills
